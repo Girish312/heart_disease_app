@@ -73,9 +73,7 @@ The model was trained using:
 
 - Best Model: Random Forest Classifier
 
-- The final model is saved as:
-
-- model/heart_model.pkl
+- The final model is saved as: model/heart_model.pkl
 
 ---
 
