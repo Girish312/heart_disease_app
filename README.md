@@ -80,10 +80,11 @@ The model was trained using:
 🌐 Deployment
 
 To containerize with Docker:
-
+```
 docker build -t heart_disease_app .
-docker run -p 8501:8501 heart_disease_app
 
+docker run -p 8501:8501 heart_disease_app
+```
 ---
 
 🧾 Results Summary
